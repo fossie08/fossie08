@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on KeeperTime<br>Currently learning Node.js<br>Ask me about Theatre Tech/Swimming Racing software<br>
+Currently working on KeeperTime A-Level NEA project<br>Currently learning Golang<br>Ask me about Theatre Tech/Swimming Racing software<br>
 
 
 ## 🌐 Socials:
